@@ -1,4 +1,4 @@
-# hyperblog :tw-1f349:
+# hyperblog 🍉
 Un blog increíble para el curso de Git y Github de Platzi
 Un blog increible para el [Curso de Git y Github](http://https://platzi.com/clases/git-github/ "[ curso de Git y Github]")
 de [Platzi](https://platzi.com "Platzi")
@@ -12,5 +12,4 @@ de [Platzi](https://platzi.com "Platzi")
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 
-Este es un readme de prueba para el curso, si llegaste hasta acá ve a este enlace: **[Ozzz][OzzzM]**
-[OzzzM]: https://github.com/OzzzM/hyperblog "M"
+Este es un readme de prueba para el curso, si llegaste hasta acá ve a este enlace: [github ozzz](https://github.com/OzzzM/hyperblog "github ozzz")
