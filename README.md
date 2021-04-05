@@ -12,5 +12,7 @@ de [Platzi](https://platzi.com "Platzi")
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por increíble Platzi team
+* Incluye ejemplos en Windows, Gnu/Linux y Mac.
+* Disponible para todas las edades.
 
 Este es un readme de prueba para el curso, si llegaste hasta acá ve a este enlace: [github ozzz](https://github.com/OzzzM/hyperblog "github ozzz")
